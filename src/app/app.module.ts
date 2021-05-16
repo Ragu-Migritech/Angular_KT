@@ -13,7 +13,8 @@ import { LoginComponentComponent } from './login-component/login-component.compo
     AppComponent,
     RegisterStudentInfoComponent,
     RegisterStudentInfoWithFBComponent,
-    LoginComponentComponent
+    LoginComponentComponent,
+    RegisterStudentInfoWithFBComponent
   ],
   imports: [
     BrowserModule,
